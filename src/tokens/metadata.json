@@ -1,0 +1,10 @@
+{
+    "name": "MYAM Token",
+    "symbol": "MYAM",
+    "description": "Mighty Yet America Majestic Token.",
+    "image": "https://github.com/MYAMsEngineer/Myam/blob/main/myam_logo_256x256.png?raw=true",
+    "uri":"https://app.pinata.cloud/pinmanager/QmdxjLLYoCHkhEidqTA7j7tbwcGzeRR9cHWMEugbjVq5XY",
+    "logouri": "https://app.pinata.cloud/pinmanager/QmVwuhLzMndgcXS6kzcbJ7YXTvSqizyxmrK1StBMLEDdDX",
+    "decimals": 9
+
+}
